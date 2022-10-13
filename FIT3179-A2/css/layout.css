@@ -1,0 +1,48 @@
+html,
+body {
+    background-color: #f5f1e9;
+}
+
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #527298;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: #527298;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    color: #000409;
+    margin-left: 165px;
+    margin-right: 125px;
+    margin-bottom: 40px;
+}
+
+.head-image{ 
+    margin-left: 165px;
+    margin-right: 165px;
+    margin-bottom: 40px;
+}
+
+#first_chart{ 
+	margin-bottom: 40px;
+	margin-left: 165px;
+}
+
+.p-txt-image1{
+    font-family: 'Poppins', sans-serif;
+    color: #080808;
+    margin-left:100px;
+    margin-right: 125px;
+    margin-bottom: 40px;
+}
+
